@@ -5,14 +5,24 @@
     <link>http://rasimkenar.com/</link>
     <description>Recent content on Rasim Kenar</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://rasimkenar.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Jan 2023 23:02:02 +0100</lastBuildDate><atom:link href="http://rasimkenar.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>My Second Post</title>
+      <link>http://rasimkenar.com/posts/my-second-post/</link>
+      <pubDate>Sat, 21 Jan 2023 23:02:02 +0100</pubDate>
+      
+      <guid>http://rasimkenar.com/posts/my-second-post/</guid>
+      <description>Testing a second page</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
       <link>http://rasimkenar.com/posts/my-first-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 21 Jan 2023 22:57:02 +0100</pubDate>
       
       <guid>http://rasimkenar.com/posts/my-first-post/</guid>
-      <description>title: &amp;ldquo;My First Post&amp;rdquo; date: 2023-1-21 Start This is my first testing post with the hugo framework.</description>
+      <description>Start This is my first testing post with the hugo framework.</description>
     </item>
     
   </channel>
