@@ -1,2 +1,2 @@
 # raz26.github.io
-ma page
+my page
