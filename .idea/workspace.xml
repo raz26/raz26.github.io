@@ -3,6 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="0bee7a57-7662-493b-b1b0-21f1f703d33d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ananke/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/ananke/css/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ananke/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/ananke/css/main.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/posts/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/my-first-post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/posts/my-first-post/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/my-second-post/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
