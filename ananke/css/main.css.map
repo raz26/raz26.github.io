@@ -1,7 +1,6 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/rasimkenar/Documents/Python/GitRepos/quickstart",
 	"sources": [
 		"ananke/css/main.css"
 	],
