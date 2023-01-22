@@ -4,17 +4,29 @@
   <url>
     <loc>http://rasimkenar.com/posts/my-first-post/</loc>
     <lastmod>2023-01-21T22:57:02+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>http://rasimkenar.com/posts/</loc>
     <lastmod>2023-01-21T22:57:02+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>http://rasimkenar.com/</loc>
     <lastmod>2023-01-21T22:57:02+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>http://rasimkenar.com/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>http://rasimkenar.com/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>http://rasimkenar.com/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
